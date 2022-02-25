@@ -54,7 +54,8 @@ last_modified_at: 2022-02-24
     
   5. Lighthouse :  
     
-  ![introduction4](https://user-images.githubusercontent.com/59858894/155629019-8414270e-5627-4eca-978d-7d4e7352456a.png)
+  ![in](https://user-images.githubusercontent.com/59858894/155638901-6033400a-ea8d-4bf9-959b-7f101524224f.PNG)
+
   
   Lighthouse는 단순히 참고용으로 사용하였다.  
   
